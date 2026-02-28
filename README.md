@@ -8,7 +8,7 @@ This dashboard allows users to explore business data dynamically through filters
 
 ## key Insights Provided
 
- .Top & Bottom performing products  
+✔Top & Bottom performing products  
 ✔ Sales trends over time  
 ✔ Sales vs Profit relationship  
 ✔ Period-to-period comparison  
@@ -19,7 +19,7 @@ This dashboard allows users to explore business data dynamically through filters
 
 ---
 
-## 🧠 Business Questions Answered
+##  Business Questions Answered
 
 1. What are the top and bottom 5 products by Sales, Profit, and Quantity Sold?
 2. How do sales trends vary over time (daily, monthly, quarterly, annually)?
@@ -32,9 +32,9 @@ This dashboard allows users to explore business data dynamically through filters
 
 ---
 
-## 📷 Dashboard Pages
+##  Dashboard Pages
 
-### 🔹 Page 1 — Top/Bottom Product Analysis
+### Page 1 — Top/Bottom Product Analysis
 
 This page highlights the best and worst performing products based on:
 
@@ -49,7 +49,7 @@ Helps identify high-performing products and items that may require strategic imp
 
 ---
 
-### 🔹 Page 2 — Overview Dashboard
+###  Page 2 — Overview Dashboard
 
 Provides a comprehensive overview of business performance including:
 
@@ -66,7 +66,7 @@ Ideal for executive-level monitoring of overall performance.
 
 ---
 
-### 🔹 Page 3 — Period Comparison Analysis
+###  Page 3 — Period Comparison Analysis
 
 Allows users to compare performance between two selected time periods.
 
@@ -83,7 +83,7 @@ Interactive date slicers enable flexible analysis.
 
 ---
 
-### 🔹 Page 4 — Detailed Order Analysis
+###  Page 4 — Detailed Order Analysis
 
 Displays order-level data with full filtering capabilities.
 
@@ -105,7 +105,7 @@ Supports deep operational insights and custom exploration.
 
 ---
 
-## 🛠️ Tools & Techniques Used
+##  Tools & Techniques Used
 
 - Power BI Desktop  
 - Data Modeling  
@@ -116,7 +116,7 @@ Supports deep operational insights and custom exploration.
 
 ---
 
-## 📌 How to Use
+##  How to Use
 
 1. Download the `.pbix` file
 2. Open using Power BI Desktop
@@ -125,7 +125,7 @@ Supports deep operational insights and custom exploration.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Modou Lamin Kinteh**  
 Data Science Student | Aspiring Data Analyst  
