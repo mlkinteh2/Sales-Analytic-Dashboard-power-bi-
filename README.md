@@ -8,7 +8,7 @@ This dashboard allows users to explore business data dynamically through filters
 
 ## key Insights Provided
 
-✔ Top & Bottom performing products  
+ .Top & Bottom performing products  
 ✔ Sales trends over time  
 ✔ Sales vs Profit relationship  
 ✔ Period-to-period comparison  
